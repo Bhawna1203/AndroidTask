@@ -16,7 +16,16 @@ Kotlin - First class and official programming language for Android development.
 
 Different Android Jetpack libraries with RoomDatabase implementation.
 
+## Application Install
+
+***You can Install and test  app from below 👇***
+
+[![Taskify](https://img.shields.io/badge/AndroidTask✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Vaibhav2002/Taskify/releases/tag/1.0.0)
+
+
 ## UI of the App 🤓
+<img src="https://github.com/Bhawna1203/AndroidTask/blob/master/Code.gif" align="middle" width="30%"/>
+
 
 ## Package and files Structure💥
 
